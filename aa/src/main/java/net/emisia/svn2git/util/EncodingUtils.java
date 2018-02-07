@@ -13,7 +13,7 @@ public final class EncodingUtils {
 	} catch (Exception e) {
 	    throw new RuntimeException(Messages.getString("Utils.runtimeError"));
 	}
-    }
+    }/asd
 
     private static byte[] encryptText(String plainText, SecretKey secKey) throws Exception {
 	Cipher aesCipher = Cipher.getInstance("AES");
