@@ -1,0 +1,2 @@
+SynchronizationServiceImpl.unableToRead=Unable to read from xml file
+SynchronizationServiceImpl.unableToWrite=Unable to write to xml file
