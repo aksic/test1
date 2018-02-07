@@ -16,5 +16,5 @@ public class Svn2GitApplication extends SpringBootServletInitializer {
     protected SpringApplicationBuilder configure(SpringApplicationBuilder Svn2GitApplication) {
 	return Svn2GitApplication.sources(Svn2GitApplication.class);
     }
-
+//asd
 }
